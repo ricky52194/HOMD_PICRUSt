@@ -1,0 +1,459 @@
+aact	Aggregatibacter actinomycetemcomitans HK1651
+aact1954	Aggregatibacter actinomycetemcomitans D17P-2
+aaph	Aggregatibacter aphrophilus NJ8700
+abau	Acinetobacter baumannii AB0057
+abro	Afipia broomeae ATCC 49717
+acar	Actinomyces cardiffensis F0333
+adef	Abiotrophia defectiva ATCC 49176
+aden2573	Actinomyces dentalis DSM 19115
+agem	Anaeroglobus geminatus F0357
+ageo	Actinomyces georgiae F0490
+ageo2574	Actinomyces georgiae DSM 6843
+ager2575	Actinomyces gerencseriae DSM 6844
+agra	Actinomyces graevenitzii C83
+ahae	Arcanobacterium haemolyticum DSM 20595, CCM, ATCC 9345
+aisr	Actinomyces israelii DSM 43320
+ajoh	Actinomyces johnsonii F0330
+alac	Anaerococcus lactolyticus ATCC 51172
+amas	Actinomyces massiliensis F0489
+amas2385	Actinomyces massiliensis 4401292
+amin	Atopobium minutum 10063974
+anae	Actinomyces naeslundii MG1
+aomn	Alloscardovia omnicolens DSM 21503
+aori	Actinomyces oris K20
+aot170	Actinomyces sp. oral taxon 170 F0386
+aot171	Actinomyces sp. oral taxon 171 F0337
+aot172	Actinomyces sp. oral taxon 172 F0311
+aot175	Actinomyces sp. oral taxon 175 F0384
+aot178	Actinomyces sp. oral taxon 178 F0338
+aot180	Actinomyces sp. oral taxon 180 F0310
+aot181	Actinomyces sp. oral taxon 181 F0379
+aot183	Actinobaculum sp. oral taxon 183 F0552
+aot199	Atopobium sp. oral taxon 199 F0494
+aot448	Actinomyces sp. oral taxon 448 F0400
+aot458	Aggregatibacter sp. oral taxon 458 W10330
+aot810	Atopobium sp. oral taxon 810 F0209
+aot848	Actinomyces sp. oral taxon 848 F0332
+aot877	Actinomyces sp. oral taxon 877 F0543
+aoti	Alloiococcus otitis ATCC 51267
+apar	Atopobium parvulum DSM 20469, IPP 1246, ATCC 33793
+apre	Anaerococcus prevotii DSM 20548, PC1, ATCC 9321
+aseg	Aggregatibacter segnis ATCC 33393
+atet	Anaerococcus tetradius ATCC 35098
+atim	Actinomyces timonensis DSM 23838
+atum	Agrobacterium tumefaciens str. C58, ATCC 33970
+avag	Atopobium vaginae DSM 15829
+avis	Actinomyces viscosus C505
+axyl	Achromobacter xylosoxidans A8
+bani	Bifidobacterium animalis subsp. lactis HN019
+bani2464	Bifidobacterium animalis subsp. lactis CNCM I-2494
+bant	Bacillus anthracis A0248
+bbre	Bifidobacterium breve CECT 7263
+bbre2426	Bifidobacterium breve UCC2003
+bcep	Burkholderia cepacia GG4
+bcla	Bacillus clausii KSM-K16
+bdim	Brevundimonas diminuta ATCC 11568
+bdim1892	Brevundimonas diminuta 470-4, ATCC 13184
+belk	Bradyrhizobium elkanii 587
+belk2487	Bradyrhizobium elkanii USDA 76
+bext	Bulleidia extructa ATCC BAA-170, DSM 13220
+bext1730	Bulleidia extructa W1219, ATCC BAA-170, DSM 13220
+bfor	Tannerella forsythia 92A2 not ATCC 43037, FDC 338
+blon	Bifidobacterium longum subsp. longum ATCC 55813
+blon2249	Bifidobacterium longum subsp. infantis ATCC 15697
+bot272	Bacteroidetes [G-1] oral taxon 272 F0290
+bot274	Bacteroidetes bacterium oral taxon 274 F0058
+bper	Bordetella pertussis Tohama I, ATCC BAA-589, NCTC-13251
+bpyo	Bacteroides pyogenes DSM 20611
+bsch	Bartonella schoenbuchensis m07a
+bsub	Bacillus subtilis BSn5
+bsub2577	Bifidobacterium subtile DSM 20096
+ccon	Campylobacter concisus strain 13826
+ccur	Campylobacter curvus 525.92
+ccur2488	Campylobacter curvus DSM 6644
+ccurt	Cryptobacterium curtum DSM 15641, ATCC 700683, 12-3T
+cdip	Corynebacterium diphtheriae NCTC 13129
+cdur	Corynebacterium durum F0235
+cgin	Capnocytophaga gingivalis ATCC 33624
+cgra	Campylobacter gracilis RM3268
+cgra1	Campylobacter gracilis ATCC 33236
+cgra1653	Capnocytophaga granulosa ATCC 51502
+chom	Cardiobacterium hominis ATCC 15826
+cmor	Catonella morbi ATCC 51271
+coch	Capnocytophaga ochracea DSM 7271, ATCC 27872, JCM 12966
+cot324	Capnocytophaga sp. oral taxon 324 F0483
+cot326	Capnocytophaga sp. oral taxon 326 F0382
+cot329	Capnocytophaga sp. oral taxon 329 F0087
+cot332	Capnocytophaga sp. oral taxon 332 F0381
+cot335	Capnocytophaga sp. oral taxon 335 F0486
+cot336	Capnocytophaga sp. oral taxon 336 F0502
+cot338	Capnocytophaga sp. oral taxon 338 F0234
+cot380	Capnocytophaga sp. oral taxon 380 F0488
+cot412	Capnocytophaga sp. oral taxon 412 F0487
+cot439	Chloroflexi bacterium oral taxon 439 isolate Chl2
+cot863	Capnocytophaga sp. oral taxon 863 F0517
+cot876	Clostridiales [F-1][G-1] sp. oral taxon 876 F0540
+cper	Centipeda periodontii DSM 2778
+cpne	Chlamydophila pneumoniae TW-183
+crec	Campylobacter rectus ATCC 33238
+csho	Campylobacter showae ATCC 51146
+csho1731	Campylobacter showae RM3277
+csho2416	Campylobacter showae CSUNSWCD
+ctes	Comamonas testosteroni KF-1
+cure	Corynebacterium urealyticum DSM 7109
+cure2614	Campylobacter ureolyticus DSM 20703
+cval	Cardiobacterium valvarum F0432
+daci	Delftia acidovorans SPH-1, ATCC15668
+dinv	Dialister invisus DSM 15470
+dmic	Dialister micraerophilus DSM 19965
+dot041_dsb2	Desulfobulbus sp. oral taxon 041 Dsb2
+dot041_dsb3	Desulfobulbus sp. oral taxon 041 Dsb3
+dpig	Dolosigranulum pigrum ATCC 51524
+ecan2604	Enterobacter cancerogenus YZ1
+ecas	Enterococcus casseliflavus EC30
+ecas2549	Enterococcus casseliflavus 14-MB-W-14
+ecol	Escherichia coli BW2952
+ecol1511	Escherichia coli O157:H7 str. EC4115
+edur	Enterococcus durans FB129-CNAB-4
+edur2534	Enterococcus durans ATCC 6056
+efae	Enterococcus faecalis DSM 20478, ATCC 19433, NCTC 775, JCM 8726, NCDO 58
+efae1080	Enterococcus faecalis V583, ATCC 700802
+ehor	Enterobacter hormaechei ATCC 49162
+einf	Eubacterium infirmum ATCC 700433, NCTC 12940
+einf1695	Eubacterium infirmum F0142
+eita	Enterococcus italicus DSM 15952
+elen	Eggerthella lenta DSM 2243, VPI 0255
+elim	Eubacterium limosum KIST612
+esac	Enterococcus saccharolyticus 30_1
+esak	Cronobacter sakazakii ATCC BAA-894
+esap	Eubacterium saphenum ATCC 49989
+eton	Erysipelothrix tonsillarum DSM 14972
+eyur	Eubacterium yurii subsp. margaretiae ATCC 43715
+falo	Filifactor alocis ATCC 35896
+fgon	Fusobacterium gonidiaformans ATCC 25563
+fgon2550	Fusobacterium gonidiaformans 3-1-5R
+fmag	Finegoldia magna BVS033A4
+fmag2435	Finegoldia magna ATCC 29328
+fnec	Fusobacterium necrophorum subsp. funduliforme 1_1_36S
+fnuc	Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+fnuc420	Fusobacterium nucleatum subsp. animalis F0419
+fnuc2539	Fusobacterium nucleatum subsp. animalis 4_8
+fnucp	Fusobacterium nucleatum subsp. polymorphum ATCC 10953
+fnucv	Fusobacterium nucleatum subsp. vincentii ATCC 49256
+fot370	Fusobacterium sp. oral taxon 370 F0437
+fper	Fusobacterium periodonticum ATCC 33693
+fper2555	Fusobacterium periodonticum 1_1_41FAA
+gadi	Granulicatella adiacens ATCC 49175
+gber	Gemella bergeriae ATCC 700627
+gele	Granulicatella elegans ATCC 700633
+ghae2070	Gemella haemolysans M341
+gmor	Gemella morbillorum M424
+gsan	Gemella sanguinis M325
+gvag	Gardnerella vaginalis ATCC 14019
+haeg	Haemophilus aegyptius ATCC 11116
+hduc	Haemophilus ducreyi 35000HP
+hhae2076	Haemophilus haemolyticus M21639
+hinf	Haemophilus influenzae PittGG
+hot851	Haemophilus sp. oral taxon 851 F0397
+hpar	Haemophilus parainfluenzae ATCC 33392
+hpar1239	Haemophilus parainfluenzae T3T1
+hpyl	Helicobacter pylori B38
+hpyl2409	Helicobacter pylori India7
+jant	Jonquetella anthropi DSM 22815
+jant1	Jonquetella anthropi E3_33 E1
+jign	Johnsonella ignava ATCC 51276
+kden	Kingella denitrificans ATCC 33394
+kkin	Kingella kingae ATCC 23330
+kora	Kingella oralis ATCC 51147
+kpne	Klebsiella pneumoniae NTUH-K2044
+kpne1249	Klebsiella pneumoniae Kp342
+ksed	Kytococcus sedentarius DSM 20547
+laci	Lactobacillus acidophilus NCFM
+lbre	Lactobacillus brevis ATCC 367
+lbuc	Leptotrichia buccalis C-1013-b, DSM 1135, ATCC 14201, JCM 1296
+lbuc1	Leptotrichia buccalis ATCC 14201
+lbuc2428	Lactobacillus buchneri NRRL B-30929
+lbuch	Lactobacillus buchneri ATCC 11577
+lcas	Lactobacillus casei BL23
+lcat	Lactobacillus catenaforme OT 569 = DSM 20559
+lcol	Lactobacillus coleohominis 101-4-CHN
+lcri	Lactobacillus crispatus ST1
+lfer	Lactobacillus fermentum IFO 3956
+lfus	Lysinibacillus fusiformis ZC1
+lgas	Lactobacillus gasseri ATCC 33323
+lgoo	Leptotrichia goodfellowii F0264
+lgoo2629	Leptotrichia goodfellowii DSM 19756
+lhof	Leptotrichia hofstadii F0254
+lhof2581	Leptotrichia hofstadii DSM 21651
+line	Lactobacillus iners DSM 13335
+ljoh	Lactobacillus johnsonii NCC 533
+lkis	Lactobacillus kisonensis F0435
+llac	Lactococcus lactis subsp. lactis IL1403
+llac1719	Lactococcus lactis subsp. lactis KF147
+lmir	Lautropia mirabilis ATCC 51599
+lmon	Listeria monocytogenes serotype 4b str. CLIP 80459
+lmon1053	Listeria monocytogenes 08-5578
+lori	Lactobacillus oris PB013-T2-3
+lot082	Lachnospiraceae bacterium sp. oral taxon 082 F0431
+lot107	Lachnospiraceae bacterium Oral taxon 107 F0167
+lot215	Leptotrichia sp. oral taxon 215 W9775
+lot225	Leptotrichia sp. oral taxon 225 F0581
+lot879	Leptotrichia sp. oral taxon 879 F0557
+lpar	Lactobacillus parafarraginis F0439
+lpen	Lactobacillus pentosus KCA1
+lpla	Lactobacillus plantarum subsp. plantarum ATCC 14917
+lpla2113	Lactobacillus plantarum subsp. plantarum ST-III
+lreu	Lactobacillus reuteri JCM 1112, F275
+lrha	Lactobacillus rhamnosus GG
+lsal	Lactobacillus salivarius UCC118
+lsha	Leptotrichia shahii DSM 19757
+lvag	Lactobacillus vaginalis ATCC 49540
+lwad	Leptotrichia wadei DSM 19758
+mcat	Moraxella catarrhalis RH4
+mfer	Mycoplasma fermentans JER
+mfer1263	Mycoplasma fermentans M64
+mgen	Mycoplasma genitalium G37, ATCC 33530
+mhom	Mycoplasma hominis ATCC 23114
+mhom2524	Mycoplasma hominis ATCC 27545
+mlep	Mycobacterium leprae Br4923
+mlot	Mesorhizobium loti MAFF303099
+mmic	Megasphaera micronuciformis F0359
+mmul	Mobiluncus mulieris ATCC 35243
+mneo	Mycobacterium neoaurum VKM Ac-1815D
+mora	Mycoplasma orale ATCC 23714
+mora2671	Methanobrevibacter oralis JMR01
+mot131	Mitsuokella sp. oral taxon 131 W9106
+mot186	Microbacterium sp. oral taxon 186 F0373
+mpne	Mycoplasma pneumoniae M129, ATCC29342
+msal	Mycoplasma salivarium ATCC 23064
+mtim	Mogibacterium timidum ATCC 33093
+mtub	Mycobacterium tuberculosis CDC1551
+nbac	Neisseria bacilliformis ATCC BAA-1200
+NCBIAAYI	Actinomyces odontolyticus ATCC 17982, DSM 43331
+NCBIABEE	Parvimonas micra ATCC 33270
+NCBIABIX	Bifidobacterium dentium ATCC 27678
+NCBIABQV	Lactobacillus paracasei subsp. paracasei 8700:2
+NCBIABWG	Lactobacillus jensenii 1153
+NCBIABWK	Mitsuokella multacida DSM 20544, A 405-1, ATCC 27723, NCTC 10
+NCBIABWM	Enterobacter cancerogenus ATCC 35316
+NCBIABZV	Capnocytophaga sputigena ATCC 33612
+NCBIABZW	Propionibacterium acnes SK137
+NCBIACDX	Neisseria mucosa ATCC 25996
+NCBIACDZ	Gemella haemolysans ATCC 10379
+NCBIACEA	Eikenella corrodens ATCC 23834
+NCBIACEB	Corynebacterium matruchotii ATCC 33806
+NCBIACEN	Neisseria flavescens NRL30031/H210
+NCBIACEO	Neisseria subflava NJ9703
+NCBIACEQ	Neisseria lactamica ATCC 23970
+NCBIACFE	Atopobium rimae ATCC 49626, VPI D140H-11A
+NCBIACFU	Campylobacter rectus RM3267
+NCBIACIK	Veillonella dispar ATCC 17748
+NCBIJUET	Tannerella forsythia ATCC 43037, FDC 338
+nelo	Neisseria elongata ATCC 29315
+ngon	Neisseria gonorrhoeae DGI2
+ngon1109	Neisseria gonorrhoeae NCCP11945
+nlac2159	Neisseria lactamica 020-06
+nmen	Neisseria meningitidis ATCC 13091
+nmen1276	Neisseria meningitidis MC58
+not014	Neisseria sp. oral taxon 014 F0314
+not020	Neisseria sp. oral taxon 020 F0370
+npol	Neisseria polysaccharea ATCC 43768
+nsic	Neisseria sicca ATCC 29256
+nwea	Neisseria weaveri ATCC 51223
+oant	Ochrobactrum anthropi
+oant1457	Ochrobactrum anthropi ATCC 49188
+oot078	Oribacterium sp. oral taxon 078 F0262
+oot108	Oribacterium sp. oral taxon 108 F0425
+oot809	Olsenella sp. oral taxon 809 F0356
+opro	Olsenella profusa F0195
+osin	Oribacterium sinus F0268
+ouli	Olsenella uli DSM 7084, VPI, ATCC 49627
+paci	Propionibacterium acidifaciens DSM 21887
+paer	Pseudomonas aeruginosa LESB58
+pala	Pseudoramibacter alactolyticus ATCC 23263
+pana	Peptostreptococcus anaerobius 653-L
+pana2506	Peptostreptococcus anaerobius DSM 2949
+pasa	Porphyromonas asaccharolytica PR426713P-I
+pasa2160	Porphyromonas asaccharolytica DSM 20707
+pavi	Propionibacterium avidum ATCC 25577
+pavi2522	Propionibacterium avidum 44067
+pbar	Prevotella baroniae DSM 16972
+pbar2675	Prevotella baroniae JCM 13447
+pbiv	Prevotella bivia JCVIHMP010
+pbiv2380	Prevotella bivia DSM 20514
+pbue	Prevotella buccae D17
+pbus	Prevotella buccalis ATCC 35310
+pcat	Porphyromonas catoniae F0037
+pden	Parascardovia denticolens F0305
+pden2021	Parascardovia denticolens DSM 10105
+pden2563	Prevotella denticola DSM 20614
+pden2676	Prevotella denticola JCM 13449
+pdenta	Prevotella dentalis DSM 3688
+pdenti	Prevotella denticola F0289
+pend	Porphyromonas endodontalis ATCC 35406
+peno	Prevotella enoeca JCM 12259
+pflu	Pseudomonas fluorescens Pf0-1
+pflu1300	Pseudomonas fluorescens Pf-5
+pfus	Prevotella fusca JCM 17724
+pgin	Porphyromonas gingivalis W83
+pgin33277	Porphyromonas gingivalis ATCC 33277
+phis	Prevotella histicola F0411
+phis2679	Prevotella histicola JCM 15637 = DNF00424
+pind	Peptoniphilus indolicus ATCC 29427
+pint	Prevotella intermedia 17
+pint2554	Prevotella intermedia ATCC 25611 = DSM 20706
+plac	Peptoniphilus lacrimalis 315-B
+plac2505	Peptoniphilus lacrimalis DSM 7455
+ploe	Prevotella loescheii DSM 19665 = JCM 12249 = ATCC 15930
+pmac	Prevotella maculosa OT 289, F0099
+pmac2508	Prevotella maculosa DSM 19339
+pmac2680	Prevotella maculosa JCM 15638
+pmar	Prevotella marshii DSM 16973
+pmar2681	Prevotella marshii JCM 13450
+pmel	Prevotella melaninogenica D18
+pmel1142	Prevotella melaninogenica ATCC 25845
+pmic_F0438	Prevotella micans F0438
+pmic2509	Prevotella micans DSM 21469
+pmic2682	Prevotella micans JCM 16134
+pmir	Proteus mirabilis ATCC 29906
+pmir1289	Proteus mirabilis HI4320
+pmuls	Prevotella multiformis DSM 16608
+pmulx	Prevotella multisaccharivorax DSM 17128
+pnig	Prevotella nigrescens ATCC 33563
+pora	Prevotella oralis ATCC 33269
+pori	Prevotella oris F0302
+pori2510	Prevotella oris DSM 18711
+pori2683	Prevotella oris JCM 12252
+pot110	Parvimonas sp. oral taxon 110 F0139
+pot113	Peptostreptococcaceae [13][G-1] sp. oral taxon 113 W5053
+pot192	Propionibacterium sp. oral taxon 192 F0372
+pot278	Porphyromonas sp. oral taxon 278 W7784
+pot279	Porphyromonas sp. oral taxon 279 F0450
+pot299	Prevotella sp. oral taxon 299 F0039
+pot302	Alloprevotella rava F0323
+pot306	Prevotella sp. oral taxon 306 F0472
+pot317	Prevotella sp. oral taxon 317 F0108
+pot375	Peptoniphilus sp. oral taxon 375 F0436
+pot386	Peptoniphilus sp. oral taxon 386 F0131
+pot393	Parvimonas sp. oral taxon 393 F0440
+pot472	Prevotella sp. oral taxon 472 F0295
+pot473	Prevotella sp. oral taxon 473 F0040
+pot786	Paenibacillus sp. oral taxon 786 D14
+pot836	Peptoniphilus sp. oral taxon 836 F0141
+poul	Prevotella oulorum F0390
+poul2684	Prevotella oulorum JCM 14966
+ppal	Prevotella pallens ATCC 700821
+ppis	Pyramidobacter piscolens W5455, DSM 21147, CCUG 55836, F0317
+pple	Prevotella pleuritidis F0068
+ppro	Propionibacterium propionicum F0230a
+ppse	Pseudomonas pseudoalcaligenes KF707
+presp302	Prevotella sp. oral taxon 302 F0020
+psac	Prevotella saccharolytica F0055
+psac2685	Prevotella saccharolytica JCM 17484
+psal	Prevotella salivae DSM 15606
+psco	Prevotella scopus JCM 17725
+psha	Prevotella shahii JCM 12083
+psto	Peptostreptococcus stomatis DSM 17678, W2278
+pstu	Pseudomonas stutzeri A1501, CGMCC 0351
+ptan	Alloprevotella tannerae ATCC 51259
+puen	Porphyromonas uenonis 60-3
+puen2674	Porphyromonas uenonis JCM 13868
+pver	Prevotella veroralis F0319
+pver2511	Prevotella veroralis DSM 19559
+pver2688	Prevotella veroralis JCM 6290
+raer	Rothia aeria F0474
+rcap	Rhodobacter capsulatus SB 1003
+rden	Rothia dentocariosa ATCC 17931
+rden1994	Rothia dentocariosa M567
+rmuc	Rothia mucilaginosa ATCC 25296
+rmuc1724	Rothia mucilaginosa DY-18
+rpic	Ralstonia pickettii 12D
+saga	Streptococcus agalactiae NEM316
+sang	Streptococcus anginosus SK52
+sang2334	Streptococcus anginosus CCUG 39159
+sart	Selenomonas artemidis F0399
+sart2584	Selenomonas artemidis DSM 19719
+saur	Staphylococcus aureus subsp. aureus WW2703/97
+saur1312	Staphylococcus aureus subsp. aureus JH1
+saus	Streptococcus australis ATCC 700641
+scap	Staphylococcus caprae C87
+scon	Streptococcus constellatus subsp. pharyngis SK1060
+scri	Streptococcus cristatus ATCC 51100
+sdow	Streptococcus downei F0415
+sepi	Staphylococcus epidermidis W23144
+sepi1324	Staphylococcus epidermidis RP62A, ATCC 35984
+sexi	Slackia exigua ATCC 700122
+sflu	Selenomonas flueggei ATCC 43531
+sgor	Streptococcus gordonii Challis CH1, ATCC 35105, NCTC7868
+sinf	Streptococcus infantarius subsp. infantarius ATCC BAA-102
+sinfantis	Streptococcus infantis X
+sinfelix	Selenomonas infelix ATCC 43532
+sino	Scardovia inopinata F0304, DSM 10107
+sint	Streptococcus intermedius F0413
+sint2361	Streptococcus intermedius JTH08
+sked	Sanguibacter keddieii DSM 10542
+slon	Stomatobaculum longum ACC2
+smal	Stenotrophomonas maltophilia R551-3
+smal1329	Stenotrophomonas maltophilia K279a
+smit	Streptococcus mitis NCTC 12261
+smit2	Streptococcus mitis biovar 2 SK95
+smit1067	Streptococcus mitis B6
+smit1998	Streptococcus mitis ATCC 6249
+smoo	Solobacterium moorei W5408
+smoo1683	Solobacterium moorei F0204
+smoo2585	Solobacterium moorei DSM 22971
+smue	Simonsiella muelleri ATCC 29453
+smut	Streptococcus mutans UA159, ATCC 700610
+snox	Selenomonas noxia ATCC 43541
+soli	Streptococcus oligofermentans AS 1.3089
+sora	Streptococcus oralis ATCC 35037, SK23, NCTC11427
+sora2005	Streptococcus oralis Uo5
+sot056	Streptococcus sp. oral taxon 056 F0418
+sot058	Streptococcus sp. oral taxon 058 F0407
+sot066	Streptococcus sp. oral taxon 066 F0442
+sot070	Streptococcus sp. oral taxon 070 F0441
+sot071	Streptococcus sp. oral taxon 071 73H25AP, F0408
+sot133	Selenomonas sp. oral taxon 133 F0473
+sot137	Selenomonas sp. oral taxon 137 F0430
+sot138	Selenomonas sp. oral taxon 138 F0429
+sot149	Selenomonas sp. oral taxon 149 67H29BP, F0410
+sot874	Candidate division SR1 bacterium MGEHA
+sot892	Selenomonas sp. oral taxon 892 F0426
+spar	Streptococcus parasanguinis II F0405
+spara	Streptococcus parasanguinis ATCC 15912
+sper	Streptococcus peroris ATCC 700780
+spne	Streptococcus pneumoniae AP200
+spyo	Streptococcus pyogenes NZ131
+spyo1356	Streptococcus pyogenes MGAS10270
+ssal	Streptococcus salivarius SK126
+ssal1367	Streptococcus salivarius JIM8780
+ssan	Streptococcus sanguinis SK36
+ssat	Shuttleworthia satelles DSM 14600, BAA-774, CCUG 45864
+ssob	Streptococcus sobrinus TCI-107
+sspu	Selenomonas sputigena ATCC 35185
+sves	Streptococcus vestibularis F0396
+swar	Staphylococcus warneri L37603
+swig	Scardovia wiggsiae F0424
+synsp_f	Pyramidobacter piscolens W5455 (TFI)
+synsp_fj	Pyramidobacter piscolens W5455 (TFI-JCVI)
+synsp_j	Pyramidobacter piscolens W5455 (JCVI)
+tden	Treponema denticola ATCC 35405, DSM 14222
+tlec	Treponema lecithinolyticum OMZ 684T
+tm7a	Candidate division TM7 single-cell isolate TM7a
+tm7b	Candidate division TM7 single-cell isolate TM7b
+tm7c	Candidate division TM7 single-cell isolate TM7c
+tmal	Treponema maltophilum ATCC 51939
+tmed	Treponema medium ATCC 700293
+tot286	Tannerella sp. oral taxon BU063 isolate Cell 5
+toti	Turicella otitidis ATCC 51513
+tpal	Treponema pallidum subsp. pallidum str. Nichols
+tsoc	Treponema socranskii subsp. paredis ATCC 35535
+tvin	Treponema vincentii ATCC 35580
+vaty	Veillonella atypica ACS-134-V-Col7a
+vot158	Veillonella sp. oral taxon 158 F0412
+vot780	Veillonella sp. oral taxon 780 F0422
+vpar1	Veillonella parvula ATCC 17745
+vpara	Variovorax paradoxus S110
+vpardsm	Veillonella parvula DSM 2008, Te3, ATCC 10790, JCM 1297
+ypes	Yersinia pestis KIM D27
+ypes1054	Yersinia pestis Antiqua JGI
