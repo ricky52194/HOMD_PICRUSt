@@ -1,4 +1,4 @@
-.SUFFIXES: .xls .txt .sorted .parsed
+.SUFFIXES: .txt .sorted .parsed
 
 %.sorted: %.txt 
 	sort $< > $@
