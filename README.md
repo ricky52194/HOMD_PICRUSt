@@ -1,8 +1,6 @@
-# HOMD_PICRUSt
+# HOMD-PICRUSt Compatibility Project
 # Dr. Alexander Alekseyenko
 # Ricky Ramos
-
-HOMD-PICRUSt Compatibility Project
 
 Introduction:
 PICRUSt is a bioinformatics package developed by Dr. Morgan Langille and his team that allows one to predict the functionality of bacterial samples based on phylogeny. It is designed to estimate gene families contributed to a metagenome by bacteria or archaea using 16S rRNA sequencing. The goal is to predict the functionality of a bacterial sample by inferring the traits of living organisms that haven’t been studied in depth.
