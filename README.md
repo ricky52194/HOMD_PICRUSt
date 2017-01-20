@@ -1,6 +1,6 @@
 # HOMD_PICRUSt
-# Ricky Ramos
 # Dr. Alexander Alekseyenko
+# Ricky Ramos
 
 HOMD-PICRUSt Compatibility Project
 
