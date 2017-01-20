@@ -13,7 +13,7 @@ Python Scripts:
   homd_read.py:
     This script requires the sorted text versions of the HOMD KEGG bacterial data. For each unique orf value where the value 
     of dr = EC, the corresponding dr_id values were appended to a list. Each unique orf is then printed with its most common 
-    dr_id. If multiple modes were found for an orf, a Counter was object was then used in order to get the most common dr_id. 
+    dr_id. If multiple modes were found for an orf, a Counter was object then used in order to get the most common dr_id. 
     Selecting the most common dr_id in this fashion can lead to changes in the .parsed files that are outputted due to the 
     randomization seen when dr_ids with the same mode are listed. 
     For example: Values x,y,z have the same mode --> (x,y,z) or (x,z,y) or (y,x,z) or (y,z,x) or (z,x,y) or (z,y,x)
